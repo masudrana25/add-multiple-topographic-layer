@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "EPSG:32646" } },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.981894, 40.768092],
+            [-73.982932, 40.76587],
+            [-73.979156, 40.765607],
+            [-73.978358, 40.768143],
+            [-73.981894, 40.768092]
+          ]
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "FID_1": 0,
+        "Count": 405,
+        "Length": 10468.7730053,
+        "Area": 714011.17082100001,
+        "Range Min": "0",
+        "Range Max": "Max",
+        "Name": "{0, Max}"
+      }
+    }
+  ]
+}
